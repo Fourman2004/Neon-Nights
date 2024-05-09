@@ -146,12 +146,12 @@
 "../../../Engine/Content/EditorResources/EmptyActor.uexp" 145
 "../../../Engine/Content/EditorResources/BSPVertex.uasset" 146
 "../../../Engine/Content/EditorResources/BSPVertex.uexp" 147
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 148
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 149
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 150
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 151
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 152
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 153
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 148
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 149
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 150
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 151
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 152
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 153
 "../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 154
 "../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 155
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 156
@@ -674,53 +674,53 @@
 "../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uexp" 673
 "../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset" 674
 "../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uexp" 675
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 676
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 677
-"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 678
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 679
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 680
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset" 681
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uexp" 682
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset" 683
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uexp" 684
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset" 685
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uexp" 686
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset" 687
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uexp" 688
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset" 689
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uexp" 690
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 691
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uexp" 692
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset" 693
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uexp" 694
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset" 695
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uexp" 696
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 697
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 698
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset" 699
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uexp" 700
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset" 701
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uexp" 702
-"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 703
-"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 704
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 705
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 706
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset" 707
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uexp" 708
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset" 709
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uexp" 710
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset" 711
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uexp" 712
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 713
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 714
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 715
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 716
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 717
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 718
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 719
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 720
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 721
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 722
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 676
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 677
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 678
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 679
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 680
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 681
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 682
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 683
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 684
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 685
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 686
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 687
+"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 688
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 689
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 690
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset" 691
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uexp" 692
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset" 693
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uexp" 694
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset" 695
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uexp" 696
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset" 697
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uexp" 698
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset" 699
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uexp" 700
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 701
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uexp" 702
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset" 703
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uexp" 704
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset" 705
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uexp" 706
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 707
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 708
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset" 709
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uexp" 710
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset" 711
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uexp" 712
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 713
+"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 714
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 715
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 716
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset" 717
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uexp" 718
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset" 719
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uexp" 720
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset" 721
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uexp" 722
 "../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 723
 "../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 724
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 725
@@ -764,405 +764,387 @@
 "C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/healthkit.uexp" 763
 "C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/AIsource/AIbase.uasset" 764
 "C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/AIsource/AIbase.uexp" 765
-"../../../Engine/Content/BasicShapes/Sphere.ubulk" 766
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 767
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 768
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 769
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 770
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 771
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 772
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 773
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 774
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 775
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 776
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 777
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 778
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 779
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 780
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 781
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 782
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 783
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 784
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Water_N.ubulk" 785
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Water_N.uasset" 786
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Textures/T_Water_N.uexp" 787
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 788
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 789
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 790
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 791
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 792
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 793
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/P_Fire.uasset" 794
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Particles/P_Fire.uexp" 795
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 796
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 797
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uasset" 798
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uexp" 799
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 800
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 801
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 802
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 803
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 804
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 805
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 806
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 807
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uasset" 808
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uexp" 809
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 810
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 811
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uasset" 812
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uexp" 813
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraDragCoefficientShapeMode.uasset" 814
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraDragCoefficientShapeMode.uexp" 815
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraAerodynamicDragPivotMode.uasset" 816
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraAerodynamicDragPivotMode.uexp" 817
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uasset" 818
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uexp" 819
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 820
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 821
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 822
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 823
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 824
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 825
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 826
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 827
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 828
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 829
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 830
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 831
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 832
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 833
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 834
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 835
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 836
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 837
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 838
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 839
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 840
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 841
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 842
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 843
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 844
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 845
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uasset" 846
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uexp" 847
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 848
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 849
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uasset" 850
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uexp" 851
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uasset" 852
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uexp" 853
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 854
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 855
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 856
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 857
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 858
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 859
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 860
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 861
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 862
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 863
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 864
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 865
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uasset" 866
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uexp" 867
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 868
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 869
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 870
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 871
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uasset" 872
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uexp" 873
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uasset" 874
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uexp" 875
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uasset" 876
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uexp" 877
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uasset" 878
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uexp" 879
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uasset" 880
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uexp" 881
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 882
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 883
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uasset" 884
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uexp" 885
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 886
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 887
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Explosion.uasset" 888
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Explosion.uexp" 889
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Explosion.uasset" 890
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Explosion.uexp" 891
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/ExplosiveBullet.uasset" 892
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/ExplosiveBullet.uexp" 893
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessDeathWidget.uasset" 894
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessDeathWidget.uexp" 895
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/NarrativeBox.uasset" 896
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/NarrativeBox.uexp" 897
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 898
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 899
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Lasblas.uasset" 900
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Lasblas.uexp" 901
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessWidget.uasset" 902
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessWidget.uexp" 903
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/EndlessMode/EndlessManager.uasset" 904
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/EndlessMode/EndlessManager.uexp" 905
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/TPBeam.uasset" 906
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/TPBeam.uexp" 907
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/TeleportMarker.uasset" 908
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/TeleportMarker.uexp" 909
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 910
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 911
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 912
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 913
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 914
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 915
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset" 916
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uexp" 917
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset" 918
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uexp" 919
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset" 920
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uexp" 921
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset" 922
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uexp" 923
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset" 924
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uexp" 925
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset" 926
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uexp" 927
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset" 928
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uexp" 929
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset" 930
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uexp" 931
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 932
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 933
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" 934
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uexp" 935
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset" 936
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uexp" 937
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset" 938
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uexp" 939
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset" 940
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uexp" 941
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset" 942
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uexp" 943
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset" 944
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uexp" 945
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset" 946
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uexp" 947
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset" 948
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uexp" 949
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset" 950
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uexp" 951
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset" 952
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uexp" 953
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset" 954
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uexp" 955
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset" 956
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uexp" 957
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset" 958
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uexp" 959
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset" 960
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uexp" 961
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset" 962
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uexp" 963
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset" 964
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uexp" 965
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset" 966
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uexp" 967
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset" 968
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uexp" 969
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset" 970
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uexp" 971
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset" 972
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uexp" 973
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset" 974
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uexp" 975
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset" 976
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uexp" 977
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 978
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 979
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" 980
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ChromaticCurve.uexp" 981
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" 982
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/CA_Mannequin.uexp" 983
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" 984
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_Diffraction.uexp" 985
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.ubulk" 986
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" 987
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uexp" 988
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 989
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 990
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 991
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 992
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" 993
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_logo3layers.uexp" 994
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_N.ubulk" 995
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" 996
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uexp" 997
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 998
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 999
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 1000
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 1001
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 1002
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 1003
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 1004
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 1005
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 1006
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 1007
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 1008
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 1009
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 1010
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 1011
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 1012
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" 1013
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uexp" 1014
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/M_Mannequin.uasset" 1015
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/M_Mannequin.uexp" 1016
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset" 1017
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uexp" 1018
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.ubulk" 1019
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset" 1020
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uexp" 1021
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.ubulk" 1022
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset" 1023
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uexp" 1024
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.ubulk" 1025
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" 1026
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uexp" 1027
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.ubulk" 1028
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset" 1029
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uexp" 1030
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_N.ubulk" 1031
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" 1032
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uexp" 1033
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_D.ubulk" 1034
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" 1035
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uexp" 1036
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.ubulk" 1037
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset" 1038
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uexp" 1039
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset" 1040
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uexp" 1041
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny.uasset" 1042
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny.uexp" 1043
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1044
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 1045
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 1046
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 1047
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Boolet.uasset" 1048
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Boolet.uexp" 1049
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Bullet.uasset" 1050
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Bullet.uexp" 1051
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DeathWidget.uasset" 1052
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DeathWidget.uexp" 1053
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/PlayerUI.uasset" 1054
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/PlayerUI.uexp" 1055
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Player.uasset" 1056
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Player.uexp" 1057
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Door/HostileArea.uasset" 1058
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Door/HostileArea.uexp" 1059
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" 1060
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny_Simple.uexp" 1061
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Melee_attack.uasset" 1062
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Melee_attack.uexp" 1063
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Boards/MeleeBlackboard.uasset" 1064
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Boards/MeleeBlackboard.uexp" 1065
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Find_Player.uasset" 1066
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Find_Player.uexp" 1067
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/MeleeTree.uasset" 1068
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/MeleeTree.uexp" 1069
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/FoeMaterial.uasset" 1070
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/FoeMaterial.uexp" 1071
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/MeleeAI.uasset" 1072
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/MeleeAI.uexp" 1073
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Spawnarea.uasset" 1074
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Spawnarea.uexp" 1075
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Leveltransition.uasset" 1076
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Leveltransition.uexp" 1077
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1078
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1079
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/GunPickup.uasset" 1080
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/GunPickup.uexp" 1081
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/FindRandomArea.uasset" 1082
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/FindRandomArea.uexp" 1083
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Shoot.uasset" 1084
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Shoot.uexp" 1085
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Projectile.uasset" 1086
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Projectile.uexp" 1087
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/AI_Projectile.uasset" 1088
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/AI_Projectile.uexp" 1089
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/RangeAI.uasset" 1090
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/RangeAI.uexp" 1091
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.ubulk" 1092
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" 1093
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uexp" 1094
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.ubulk" 1095
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" 1096
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uexp" 1097
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.ubulk" 1098
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" 1099
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uexp" 1100
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.ubulk" 1101
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" 1102
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uexp" 1103
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.ubulk" 1104
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" 1105
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uexp" 1106
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.ubulk" 1107
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" 1108
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uexp" 1109
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.ubulk" 1110
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" 1111
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uexp" 1112
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" 1113
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uexp" 1114
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.ubulk" 1115
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" 1116
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uexp" 1117
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.ubulk" 1118
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" 1119
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uexp" 1120
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.ubulk" 1121
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" 1122
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uexp" 1123
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.ubulk" 1124
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" 1125
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uexp" 1126
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.ubulk" 1127
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" 1128
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uexp" 1129
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.ubulk" 1130
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" 1131
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uexp" 1132
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.ubulk" 1133
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" 1134
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uexp" 1135
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" 1136
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uexp" 1137
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 1138
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 1139
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/RangeAi.uasset" 1140
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/RangeAi.uexp" 1141
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/FirstLevel.uexp" 1142
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/FirstLevel.umap" 1143
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Blue.uasset" 1144
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Blue.uexp" 1145
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Green.uasset" 1146
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Green.uexp" 1147
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Yellow.uasset" 1148
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Yellow.uexp" 1149
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/EndlessMap.uexp" 1150
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/EndlessMap.umap" 1151
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartWidget.uasset" 1152
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartWidget.uexp" 1153
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartHUD.uasset" 1154
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartHUD.uexp" 1155
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartGameMode.uasset" 1156
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartGameMode.uexp" 1157
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Demostart.uexp" 1158
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Demostart.umap" 1159
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndWidget.uasset" 1160
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndWidget.uexp" 1161
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DemoendHUD.uasset" 1162
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DemoendHUD.uexp" 1163
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndGameMode.uasset" 1164
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndGameMode.uexp" 1165
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/DemoEnd.uexp" 1166
-"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/DemoEnd.umap" 1167
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 766
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 767
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 768
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 769
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 770
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 771
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 772
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 773
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 774
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 775
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 776
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 777
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 778
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 779
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 780
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 781
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 782
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 783
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 784
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 785
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 786
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 787
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 788
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 789
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 790
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 791
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 792
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 793
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 794
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 795
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 796
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 797
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 798
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 799
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uasset" 800
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uexp" 801
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uasset" 802
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uexp" 803
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 804
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 805
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 806
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 807
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 808
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 809
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 810
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 811
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 812
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 813
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 814
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 815
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 816
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 817
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 818
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 819
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/BombExplosion.uasset" 820
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/BombExplosion.uexp" 821
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 822
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 823
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 824
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 825
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uasset" 826
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uexp" 827
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uasset" 828
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uexp" 829
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uasset" 830
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uexp" 831
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_LWCConvertPosToVec.uasset" 832
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_LWCConvertPosToVec.uexp" 833
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uasset" 834
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uexp" 835
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uasset" 836
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uexp" 837
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 838
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 839
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uasset" 840
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uexp" 841
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uasset" 842
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uexp" 843
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uasset" 844
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uexp" 845
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uasset" 846
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uexp" 847
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uasset" 848
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uexp" 849
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 850
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 851
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uasset" 852
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uexp" 853
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/tracer.uasset" 854
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/tracer.uexp" 855
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Materials/M_Basic_Wall.uasset" 856
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Materials/M_Basic_Wall.uexp" 857
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Shapes/Shape_Sphere.ubulk" 858
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Shapes/Shape_Sphere.uasset" 859
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/StarterContent/Shapes/Shape_Sphere.uexp" 860
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/ExplosiveBullet.uasset" 861
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/ExplosiveBullet.uexp" 862
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Explosion.uasset" 863
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Explosion.uexp" 864
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessDeathWidget.uasset" 865
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessDeathWidget.uexp" 866
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/NarrativeBox.uasset" 867
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/NarrativeBox.uexp" 868
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Lasblas.uasset" 869
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Lasblas.uexp" 870
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessWidget.uasset" 871
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndlessWidget.uexp" 872
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/EndlessMode/EndlessManager.uasset" 873
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/EndlessMode/EndlessManager.uexp" 874
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/TeleportMarker.uasset" 875
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/TeleportMarker.uexp" 876
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 877
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 878
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 879
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 880
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 881
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 882
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset" 883
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uexp" 884
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset" 885
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uexp" 886
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset" 887
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uexp" 888
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset" 889
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uexp" 890
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset" 891
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uexp" 892
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset" 893
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uexp" 894
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset" 895
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uexp" 896
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset" 897
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uexp" 898
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 899
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 900
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" 901
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uexp" 902
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset" 903
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uexp" 904
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset" 905
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uexp" 906
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset" 907
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uexp" 908
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset" 909
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uexp" 910
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset" 911
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uexp" 912
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset" 913
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uexp" 914
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset" 915
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uexp" 916
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset" 917
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uexp" 918
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset" 919
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uexp" 920
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset" 921
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uexp" 922
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset" 923
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uexp" 924
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset" 925
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uexp" 926
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset" 927
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uexp" 928
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset" 929
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uexp" 930
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset" 931
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uexp" 932
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset" 933
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uexp" 934
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset" 935
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uexp" 936
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset" 937
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uexp" 938
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset" 939
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uexp" 940
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset" 941
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uexp" 942
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset" 943
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uexp" 944
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 945
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 946
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" 947
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ChromaticCurve.uexp" 948
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" 949
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/CA_Mannequin.uexp" 950
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" 951
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_Diffraction.uexp" 952
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.ubulk" 953
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" 954
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uexp" 955
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 956
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 957
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 958
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 959
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" 960
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/MF_logo3layers.uexp" 961
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_N.ubulk" 962
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" 963
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uexp" 964
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 965
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 966
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 967
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 968
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 969
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 970
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 971
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 972
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 973
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 974
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 975
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 976
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 977
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 978
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 979
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" 980
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uexp" 981
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/M_Mannequin.uasset" 982
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/M_Mannequin.uexp" 983
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset" 984
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uexp" 985
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.ubulk" 986
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset" 987
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uexp" 988
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.ubulk" 989
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset" 990
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uexp" 991
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.ubulk" 992
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" 993
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uexp" 994
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.ubulk" 995
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset" 996
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uexp" 997
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_N.ubulk" 998
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" 999
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uexp" 1000
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_D.ubulk" 1001
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" 1002
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uexp" 1003
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.ubulk" 1004
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset" 1005
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uexp" 1006
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset" 1007
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uexp" 1008
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny.uasset" 1009
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny.uexp" 1010
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 1011
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1012
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1013
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1014
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 1015
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 1016
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 1017
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Boolet.uasset" 1018
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Boolet.uexp" 1019
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Bullet.uasset" 1020
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/Bullet.uexp" 1021
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DeathWidget.uasset" 1022
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DeathWidget.uexp" 1023
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/PlayerUI.uasset" 1024
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/PlayerUI.uexp" 1025
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Player.uasset" 1026
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Player.uexp" 1027
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Door/HostileArea.uasset" 1028
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Door/HostileArea.uexp" 1029
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" 1030
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Manny_Simple.uexp" 1031
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Melee_attack.uasset" 1032
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Melee_attack.uexp" 1033
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Boards/MeleeBlackboard.uasset" 1034
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Boards/MeleeBlackboard.uexp" 1035
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Find_Player.uasset" 1036
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Find_Player.uexp" 1037
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/MeleeTree.uasset" 1038
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/MeleeTree.uexp" 1039
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/FoeMaterial.uasset" 1040
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/FoeMaterial.uexp" 1041
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/MeleeAI.uasset" 1042
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/MeleeAI.uexp" 1043
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Spawnarea.uasset" 1044
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Spawnarea.uexp" 1045
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Leveltransition.uasset" 1046
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Leveltransition.uexp" 1047
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 1048
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 1049
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uasset" 1050
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uexp" 1051
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraDragCoefficientShapeMode.uasset" 1052
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraDragCoefficientShapeMode.uexp" 1053
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraAerodynamicDragPivotMode.uasset" 1054
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraAerodynamicDragPivotMode.uexp" 1055
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 1056
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 1057
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Explosion.uasset" 1058
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/particles/Explosion.uexp" 1059
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1060
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1061
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/GunPickup.uasset" 1062
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/Player+Guns/Guns/GunPickup.uexp" 1063
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/FindRandomArea.uasset" 1064
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/FindRandomArea.uexp" 1065
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Shoot.uasset" 1066
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/Shoot.uexp" 1067
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Projectile.uasset" 1068
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Projectile.uexp" 1069
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/AI_Projectile.uasset" 1070
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Tasks/AI_Projectile.uexp" 1071
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/RangeAI.uasset" 1072
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/Trees/RangeAI.uexp" 1073
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.ubulk" 1074
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" 1075
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uexp" 1076
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.ubulk" 1077
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" 1078
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uexp" 1079
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.ubulk" 1080
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" 1081
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uexp" 1082
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.ubulk" 1083
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" 1084
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uexp" 1085
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.ubulk" 1086
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" 1087
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uexp" 1088
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.ubulk" 1089
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" 1090
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uexp" 1091
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.ubulk" 1092
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" 1093
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uexp" 1094
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" 1095
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uexp" 1096
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.ubulk" 1097
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" 1098
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uexp" 1099
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.ubulk" 1100
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" 1101
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uexp" 1102
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.ubulk" 1103
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" 1104
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uexp" 1105
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.ubulk" 1106
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" 1107
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uexp" 1108
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.ubulk" 1109
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" 1110
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uexp" 1111
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.ubulk" 1112
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" 1113
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uexp" 1114
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.ubulk" 1115
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" 1116
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uexp" 1117
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" 1118
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uexp" 1119
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 1120
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 1121
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/RangeAi.uasset" 1122
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Scripts/AI/RangeAi.uexp" 1123
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/FirstLevel.uexp" 1124
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/FirstLevel.umap" 1125
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Blue.uasset" 1126
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Blue.uexp" 1127
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Green.uasset" 1128
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Green.uexp" 1129
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Yellow.uasset" 1130
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/Yellow.uexp" 1131
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/EndlessMap.uexp" 1132
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/EndlessMap.umap" 1133
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartWidget.uasset" 1134
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartWidget.uexp" 1135
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartHUD.uasset" 1136
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartHUD.uexp" 1137
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartGameMode.uasset" 1138
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/StartGameMode.uexp" 1139
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Demostart.uexp" 1140
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/Demostart.umap" 1141
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndWidget.uasset" 1142
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndWidget.uexp" 1143
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DemoendHUD.uasset" 1144
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/DemoendHUD.uexp" 1145
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndGameMode.uasset" 1146
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/Textures/UI/EndGameMode.uexp" 1147
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/DemoEnd.uexp" 1148
+"C:/Users/marsh/Documents/Unreal Projects/Quest_of_nikvolia/Content/levels/DemoEnd.umap" 1149
